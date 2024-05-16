@@ -1,0 +1,44 @@
+{
+  "resources/css/app.css": {
+    "file": "assets/app-f25bf6dc.css",
+    "isEntry": true,
+    "src": "resources/css/app.css"
+  },
+  "resources/css/custom.css": {
+    "file": "assets/custom-1f8c12bf.css",
+    "isEntry": true,
+    "src": "resources/css/custom.css"
+  },
+  "resources/css/output.css": {
+    "file": "assets/output-1484d9b4.css",
+    "isEntry": true,
+    "src": "resources/css/output.css"
+  },
+  "resources/css/owner-custom.css": {
+    "file": "assets/owner-custom-724e91c2.css",
+    "isEntry": true,
+    "src": "resources/css/owner-custom.css"
+  },
+  "resources/css/slick.css": {
+    "file": "assets/slick-a71e3fe6.css",
+    "isEntry": true,
+    "src": "resources/css/slick.css"
+  },
+  "resources/js/app.css": {
+    "file": "assets/app-f8f82552.css",
+    "src": "resources/js/app.css"
+  },
+  "resources/js/app.js": {
+    "css": [
+      "assets/app-f8f82552.css"
+    ],
+    "file": "assets/app-4cca3846.js",
+    "isEntry": true,
+    "src": "resources/js/app.js"
+  },
+  "resources/js/custom.js": {
+    "file": "assets/custom-1f2f2f10.js",
+    "isEntry": true,
+    "src": "resources/js/custom.js"
+  }
+}
